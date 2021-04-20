@@ -28,7 +28,6 @@
 							<li><a href="Profilet e te diplomuarve.php">Te Diplomuarit</a></li>
 							<li><a href="Profilet e Institucioneve.php">Institucionet</a></li>
 							<li><a href="#">Raportet</a></li>
-							<li><a href="index.php" class="button primary">Ç'kycu</a></li>
 						</ul>
 					</nav>
 				</header>
